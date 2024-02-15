@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200pt" height="1200pt" version="1.1" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+ <g stroke="#000">
+  <path transform="matrix(.45637 0 0 .45637 257.24 374.21)" d="m99.358 693.76v-191.65l142.58-98.1 142.58 98.1v191.65" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+  <path transform="matrix(.45637 0 0 .45637 257.24 374.21)" d="m71.086 483.98 170.85-117.55 170.86 117.55" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="21"/>
+  <path transform="matrix(.45637 0 0 .45637 451.23 433.29)" d="m987.93 567.02v-223.55h-114.94l-0.29958-3.0814v-110.73l-142.45-43.182-142.45 43.182v110.73l-0.35094 3.0814h-114.88v223.55" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+  <path transform="matrix(.45637 0 0 .45637 451.23 409.39)" d="m565.26 259.06 164.99-51.536 164.99 51.536" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="19.977"/>
+  <path transform="matrix(.75571 0 0 .75571 207.08 245.24)" d="m45.34 595.73h949.18" fill="none" stroke-width="13.286"/>
+  <path transform="matrix(.75571 0 0 .75571 222.14 182.57)" d="m734.54 720.75c-26.894 43.864-64.891 80.336-110.4 105.96-45.502 25.622-97.001 39.548-149.61 40.447-52.604 0.8994-104.58-11.253-150.99-35.299-46.412-24.051-85.712-59.2-114.18-102.12" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="19.036"/>
+  <path transform="matrix(-1.0186 -.60563 .60563 -1.0186 779.59 728.65)" d="m8.7193 4.0328-10.925-4.0161 10.923-4.0173c-1.7428 2.3708-1.7336 5.6176 0.001915 8.0334zm0 0" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width=".625"/>
+  <path transform="matrix(-.75571 0 0 -.75571 222.14 182.57)" d="m-213.69-402.52c-26.894 43.864-64.891 80.341-110.4 105.96-45.502 25.622-97.001 39.542-149.61 40.442-52.604 0.90457-104.58-11.248-150.99-35.299-46.407-24.046-85.712-59.2-114.18-102.12" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="19.036"/>
+  <path transform="matrix(1.0186 .60563 -.60563 1.0186 381.3 485.37)" d="m8.7203 4.0341-10.927-4.019 10.923-4.0173c-1.7428 2.3708-1.7336 5.6176 0.003599 8.0362zm0 0" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-width=".625"/>
+ </g>
+</svg>
