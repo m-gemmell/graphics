@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200pt" height="1200pt" version="1.1" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <path d="m66 1026h1068v108h-1068z"/>
+  <path d="m66 666h168v228h-168z"/>
+  <path d="m66 426h168v228h-168z"/>
+  <path d="m66 66h168v348h-168z"/>
+  <path d="m366 306h168v588h-168z"/>
+  <path d="m366 186h168v108h-168z"/>
+  <path d="m366 66h168v108h-168z"/>
+  <path d="m666 815.16h168v78.844h-168z"/>
+  <path d="m666 426h168v377.16h-168z"/>
+  <path d="m666 66h168v348h-168z"/>
+  <path d="m966 546h168v348h-168z"/>
+  <path d="m966 455.16h168v78.844h-168z"/>
+  <path d="m966 66h168v377.16h-168z"/>
+ </g>
+</svg>
