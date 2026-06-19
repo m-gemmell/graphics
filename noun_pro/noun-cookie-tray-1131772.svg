@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200pt" height="1200pt" version="1.1" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg">
+ <path transform="scale(20)" d="m10 12h40c2.2092 0 4 2.2092 4 4v29c0 2.2092-1.7908 4-4 4h-40c-2.2092 0-4-2.2092-4-4v-29c0-2.2092 1.7908-4 4-4z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="scale(20)" d="m17 19.5c0 1.933-1.567 3.5-3.5 3.5s-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5 3.5 1.567 3.5 3.5z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="scale(20)" d="m17 30.5c0 1.933-1.567 3.5-3.5 3.5s-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5 3.5 1.567 3.5 3.5z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="scale(20)" d="m17 41.5c0 1.933-1.567 3.5-3.5 3.5s-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5 3.5 1.567 3.5 3.5z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="scale(20)" d="m28 19.5c0 1.933-1.567 3.5-3.5 3.5s-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5 3.5 1.567 3.5 3.5z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="scale(20)" d="m28 30.5c0 1.933-1.567 3.5-3.5 3.5s-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5 3.5 1.567 3.5 3.5z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="scale(20)" d="m28 41.5c0 1.933-1.567 3.5-3.5 3.5s-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5 3.5 1.567 3.5 3.5z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="scale(20)" d="m39 19.5c0 1.933-1.567 3.5-3.5 3.5s-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5 3.5 1.567 3.5 3.5z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="scale(20)" d="m39 30.5c0 1.933-1.567 3.5-3.5 3.5s-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5 3.5 1.567 3.5 3.5z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="scale(20)" d="m39 41.5c0 1.933-1.567 3.5-3.5 3.5s-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5 3.5 1.567 3.5 3.5z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="scale(20)" d="m50 19.5c0 1.933-1.567 3.5-3.5 3.5s-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5 3.5 1.567 3.5 3.5z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="scale(20)" d="m50 30.5c0 1.933-1.567 3.5-3.5 3.5s-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5 3.5 1.567 3.5 3.5z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="scale(20)" d="m50 41.5c0 1.933-1.567 3.5-3.5 3.5s-3.5-1.567-3.5-3.5 1.567-3.5 3.5-3.5 3.5 1.567 3.5 3.5z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="scale(20)" d="m3 19h3v23h-3c-0.53047 0-1.0391-0.21074-1.4143-0.58574-0.375-0.3752-0.58574-0.88379-0.58574-1.4143v-19c0-0.53047 0.21074-1.0391 0.58574-1.4143 0.3752-0.375 0.88379-0.58574 1.4143-0.58574z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+ <path transform="matrix(-20 -2.449e-15 2.449e-15 -20 2260 1220)" d="m56 19h3v23h-3c-0.53047 0-1.0391-0.21074-1.4143-0.58574-0.375-0.3752-0.58574-0.88379-0.58574-1.4143v-19c0-0.53047 0.21074-1.0391 0.58574-1.4143 0.3752-0.375 0.88379-0.58574 1.4143-0.58574z" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="2"/>
+</svg>
