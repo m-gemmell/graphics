@@ -1,0 +1,37 @@
+{
+  "category": "Retro",
+  "name": "Vaporwave",
+  "color_count": 5,
+  "colors": [
+    {
+      "r": 185,
+      "g": 103,
+      "b": 255,
+      "percentage": 20
+    },
+    {
+      "r": 1,
+      "g": 205,
+      "b": 254,
+      "percentage": 20
+    },
+    {
+      "r": 255,
+      "g": 113,
+      "b": 206,
+      "percentage": 20
+    },
+    {
+      "r": 5,
+      "g": 255,
+      "b": 161,
+      "percentage": 20
+    },
+    {
+      "r": 255,
+      "g": 251,
+      "b": 150,
+      "percentage": 20
+    }
+  ]
+}
